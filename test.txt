@@ -1,3 +1,0 @@
-First push text test into remote origin.
-Adding second line of text from second branch to demonstrate merge conflict.
-Adding third line of text from first branch to demonstrate merge conflict.
