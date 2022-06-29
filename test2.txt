@@ -1,0 +1,2 @@
+Demonstrating merge conflict, second try.
+Adding a second line to this file to demonstrate merge conflict.
